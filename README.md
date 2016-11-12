@@ -13,7 +13,7 @@ Documentation is available at http://docs.sharetempus.com
 Every element is accessed via your `sharetempus` instance:
 
 ```python
-from sharetempus.ShareTempus import ShareTempus;
+from sharetempus import ShareTempus;
 sharetempus = ShareTempus('your sharetempus API key');
 // sharetempus.{ ELEMENT_NAME }.{ METHOD_NAME }
 ```

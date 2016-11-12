@@ -7,6 +7,7 @@ setup(
   author = 'ShareTempus',
   author_email = 'webmaster@sharetempus.com',
   url = 'https://github.com/ShareTempus/sharetempus-python',
+  license='MIT License',
   keywords = ['sharetempus', 'api', 'insurance', 'policy'],
   classifiers = [],
 )

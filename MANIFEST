@@ -2,7 +2,9 @@
 setup.cfg
 setup.py
 sharetempus/Categories.py
+sharetempus/Claims.py
 sharetempus/Customers.py
+sharetempus/Events.py
 sharetempus/Policies.py
 sharetempus/ShareTempus.py
 sharetempus/ShareTempusMethod.py

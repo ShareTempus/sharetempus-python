@@ -13,6 +13,11 @@ class Customers(ShareTempusMethod):
                 "path"    : '/customers/update'
             },
 
+            "find": {
+                "method"  : 'POST',
+                "path"    : '/customers/find'
+            },
+
             "retrieve": {
                 "method"  : "GET",
                 "path"    : "/customers/{customer}",

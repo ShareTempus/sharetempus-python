@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'sharetempus',
   packages = ['sharetempus'],
-  version = '0.1.2',
+  version = '0.1.3',
   description = 'ShareTempus API wrapper',
   author = 'ShareTempus',
   author_email = 'webmaster@sharetempus.com',
